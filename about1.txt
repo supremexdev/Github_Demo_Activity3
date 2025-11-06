@@ -1,0 +1,15 @@
+Devin Grays
+
+1. Two open source control management tools are Git and SVN
+
+2. While both of these are vaiable tools I would use Git as it is the standard in the software industry and many people 
+are familiar with it. Git is very good at managing projects as it has many features to help development. In Git you are able to create branches
+and this is helpful for testing code and making sure the new code doesn't break the main code. Git commit feature is a great tool, it tells exacty
+who sent the code at what time with a summary of the changes that the person made. Lastly the ablity to merge branches after comfrimation the code works is a usfule tool.
+
+3. Reasons to choose Git is that it has excellent perfromance, It is a tool that works in an offline setting, it is known to be a very secure platform,
+and lastly it is such a large platform now that it has a vast amont of users and code avaiable.
+
+4. A reason to not use Git would be if you are a company with a large repos with a massive amount of data. Git is not made to handle terabit size projects
+so another software like Perforce Helix Core which is bulit to handle large projects most people call it a upgraded git. It has most of the same features as git
+but it can handle large projects and large data objects much better then git with the same features.
